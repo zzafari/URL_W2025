@@ -1,0 +1,1225 @@
+========================================
+
+State: Washington
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 391%* APR
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $700 (*or 30% of gross monthly income)
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 45 days
+Number of Rollovers: 0
+Restrictions: Allowed only 8 payday loans per 12-month period
+Finance Charges: <$500 = 15%;>$500 = 10%
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+1995: – The first payday lending laws were passed by the Legislature in Washington under the Check Cashers & Sellers Act (RCW 31.45).
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Washington is now allowed to offer loans to the military in excess of 36% APR.
+January 1, 2010: – The new payday loan regulation took effect (Rev. Code Ann. 31.45.010 et seq.). It limited the number of payday loans that consumers can take out a year to8.
+- Also, according to it, prior to issuing any loans, all lenders have to access a special database and check the eligibility of each customer. The database contains detailed information about payday loans and their borrowers (social security number, or equivalent ID number, and their gross monthly income information), each transaction of the sort made to Washington residents by licensed lenders should be present in the database. Based on this data a lender should either issue or refuse a perspective customer.
+2010-2015: – Washington saw a considerable reduction in the number of payday lenders operating in the state.
+2015: – There was an attempt to loosen payday loan regulations in the state, however, the attempt wasunsuccessful.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+2019: – Currently, the legislation with regard to payday loans in the state of Washington stays the same.
+
+========================================
+
+State: Oregon
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 154%*
+Maximum Loan Amount: $50,000
+Minimum Loan Term: 31 days
+Maximum Loan Term: 60 days
+Number of Rollovers: 2
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1998 –: Rev. Stat. § 725.340 Consumer Finance Act applied to payday loans. There was no  cap on fees or limits on loan terms. Thus, fees ranged on average from  $15 to $20 per $100, with APRs for 14-day loans of 391% to 521%.This situationdidn’t change until 2007.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Oregon is now  allowed to offer loans to the military in excess of 36% APR.
+June-July 2007: – Oregon Legislatureenacted payday loan rate-limiting regulationswhen the interest rate was capped at 36%, APR lowered to 156%, the  minimum loan term extended to 31 days, and other restrictions were  implemented. The measure led to the closure of more thantwo-thirds of Oregon’s payday loan stores.
+June 18, 2015: –Oregon SB 278voided payday loans of $50,000 and less made by lenders without a  license. As of that law, borrowers were not obligated to pay back loans  to such lenders and any collection activities in such cases were  rendered illegal. In the result, as of November 5, 2015, only 14 store  lenders and 8 online lenders were officially licensed and could operate  legally in Oregon.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2016: – According to the data collected from regulators, there were66 licensed lendersin Oregon.
+
+========================================
+
+State: California
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 460%* (369% on the average in 2019)
+Maximum Loan Amount: $300
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 31 days
+Number of Rollovers: 0
+Number of Outstanding Loans: 1
+Cooling-off Period: None
+Installment: No
+Finance Charges: $17.64 per $100.0015% of the amount advanced (up to $45)
+Statute of Limitations: 4 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1990’s: – Payday lending started as an industry in California as an extension of the check cashing industry. At that time there wasn’t any special state law that explicitly authorized or prohibited check cashers from offering high-interest payday loans and they were not specifically regulated by the California Finance Lenders Law. Thus, they worked freely. (Report on the Status of Payday Lending in California)
+1996: – “SB 1959(C. Calderon, Statutes of ) sanctioned and accepted the requirements for a payday loan in California law. The bill exempted check cashers from the California Finance Lenders Law, which officially allowed payday lenders to charge excessive interest rates. (California Budget Project Chartbook 2008) The loan terms set by this law haven’t changed much for almost 20  years:  15% limit on fees, ~400% APR, $300 max loan amount. (Report on the Status of Payday Lending in California)
+2002: – TheCalifornia Deferred Deposit Transaction Lawwas introduced. It is now considered as one of the most ambiguous laws that do not take into account the consumers’ interests. It “established both licensure and regulation of persons making deferred deposit transactions”by imposing licensing obligations and disclosure all the lending terms among other things. Loan terms, however, didn’t become more restrictive.
+2000s – nowadays: –All the billsthat came before the Legislature to regulate payday lending industry in the state, unfortunately,died. Among manyfailed attemptswere:SB 365(2011, died in committee) aimed at creating a payday loan database.SB 515(2014, died in committee) aimed to extend the minimum payday loan term and require lenders to offer installments.AB 2953(2018, died in the Senate) proposed a 36% interest rate cap on auto-title loans.AB 2500(2018, died on the Assembly floor) proposed a 36% interest rate cap on installment loans.AB 3010(2018, died) aimed to restrict payday loans to 1 at a time and proposed creating a database where lenders would record all loan transactions.
+- SB 365(2011, died in committee) aimed at creating a payday loan database.
+- SB 515(2014, died in committee) aimed to extend the minimum payday loan term and require lenders to offer installments.
+- AB 2953(2018, died in the Senate) proposed a 36% interest rate cap on auto-title loans.
+- AB 2500(2018, died on the Assembly floor) proposed a 36% interest rate cap on installment loans.
+- AB 3010(2018, died) aimed to restrict payday loans to 1 at a time and proposed creating a database where lenders would record all loan transactions.
+Oct 5, 2017: – TheConsumer Financial Protection Bureau (CFPB)issuedthe Final Payday Loan Rulethat hasn’t yet fully come into effect.
+- The only federal changes to California payday lending law include the Military Lending Act  (2006), the law regarding advertising reporting: “March 15 or earlier of each year, every licensed lender must file their annual report with the Commissioner of Business Oversight” (AB 2156, 2003-2004 Leg. Sess. (Cal.  2004); Cal. Fin. Code § 23057.), and the law that exempts auto dealers from coverage (AB 634, 2007-2008 Leg. Sess. (Cal. 2008); Cal. Fin. Code §  23001.) (Report on the Status of Payday Lending in California).
+
+========================================
+
+State: Nevada
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): No Limit
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: 25% of monthly gross income
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 35 days
+Number of Rollovers: Not Specified
+Number of Outstanding Loans: 1
+Finance Charges: No Limit
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+Before 1980s: – Nevada had a usury cap of 18% APR for all small loans, thus, no payday lenders were to be found in the state.
+1984: – Nevada abolished the 18% APR usury cap and by doing so it welcomed the payday loan industry into the state.
+2005: –NRS Chapter 604A, a new Nevada statute, was enacted. It became the first law that actually regulated certain types of high interest loans.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Nevada is now  allowed to offer loans to the military in excess of 36% APR.
+2007: – The term “high interest loans”  was added into the statute in order to be specifically regulated  thereby. The legislation stayed the same for years since that time.
+2016: – It is reported that  the industry donated large sums to the state lawmakers in order to rule  out any attempts to restrict the industry regulations. And regardless of  the laws that came into effect years earlier, payday lenders still  thrived. One bill was proposed to limit the number of outstanding loans,  to set a “cooling-off” period between loans, and to create a statewide  lender database; however, it never came to life.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2017: –AB 163was enacted. This time, Nevada decided not to wait for the federal  decision, and the state legislature managed to introduce a change into  payday loan regulations. Now payday lenders are forced to check whether a  prospective borrower is able to repay a loan before giving approval. It  might not seem much (the overall payday loan situation in the state  considered) but it is a start.
+2019: – theSB201bill was adopted, according to whicha special baseshould be created to control the number of loans issued. According to the new requirements, the lender must check the information about the client in the database before issuing a loan.
+
+========================================
+
+State: Idaho
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 652%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $1,000 (or 25% of gross monthly income)
+Minimum Loan Term: Not Specified
+Maximum Loan Term: Not Specified
+Number of Rollovers: 3
+Finance Charges: No Limit
+Statute of Limitations: 5 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+2001: – The payday lending industry operated in the state and was overviewed by the Idaho Department of Finance.
+July 2003: – The laws that  specifically regulated payday lending industry in the state were adopted  by the Idaho Legislature. Before that, payday licensed lenders operated  in the state under theIdaho Credit Code.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Idaho is now  allowed to offer loans to the military in excess of 36% APR.
+July 1, 2014: –Idaho’s Payday Loan Actwas amended (Senate Bill 1314) with the aim to add more protection to the customers in the state. Thenew set of ruleslimited the maximum loan amount to $1,000 (or 25% of a borrower’s gross  monthly income). Also, the bill’s another provision limited the number  of times a lender can attempt to cash a borrower’s check to 2. An  extended payment plan now became a requirement and it can be requested  by the borrower without any added fees. Now the borrowers are able to  dividing the loan into 4 installments to repay the loan in the course of  the following 12 months.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2019: – Current situation  with regard to payday loan regulations stays the same. Since 2014, when  the Legislature passed a bill with the number of limitations, the number  of registered payday lenders in Idaho slightly dropped (2016 – 174,  2018 – 154). However, the rates are still the same and they are still  high. Also, the Idaho Department of Finance has been receiving an  increased number of consumer complaints (5 times more since 2016) due to  the fact that many customers don’t understand the loan terms. So, the  problem is still here.
+
+========================================
+
+State: Montana
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal (restrictions apply)
+Interest Rate (APR): 36% small loan cap
+Minimum Loan Amount: $50
+Maximum Loan Amount: $300
+Minimum Loan Term: 14 days
+Maximum Loan Term: 31 days
+Number of Rollovers: 0
+Finance Charges: $1.39 for a $100 loan given for 2 weeks
+Statute of Limitations: 8 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1999: – Montana legalized  payday lending. For more than a decade, payday lenders flourished in the  state and offered loans at exorbitant rates.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Montana is now  allowed to offer loans to the military in excess of 36% APR.
+2010: – Finally, after all these years of triple-digit APR, the State Legislature passedHB 118.  The new law reinstated usury laws in the state and effectively capped  interest rates at 36%. The situation forced many lenders to go online;  however, those also were requested to comply with the state laws.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+Present days: – Payday loans are officially legal in Montana, however, since 2010 the number of lenders has dropped to a minimum.
+
+========================================
+
+State: Wyoming
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 261%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: No limit
+Minimum Loan Term: Not Specified
+Maximum Loan Term: One calendar month
+Number of Rollovers: 0
+Finance Charges: $30 (or 20% per month)
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+2005: –HB 303would have established an allowance for licensed check cashers to charge customers for any collection fee, attorneys’ fees, or costs awarded by the court on top of the usual finance charges. HB 303 died in Committee.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Wyoming is now allowed to offer loans to the military in excess of 36% APR.
+June 2014: – Wyoming Uniform Consumer Credit Code (UCCC) (adopted by Wyoming among other 9 states in the 1960-70s) wasrevised. Current regulations have been in place since then.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+
+========================================
+
+State: Utah
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 658%*
+Minimum Loan Amount: Not specified
+Maximum Loan Amount: No Limit
+Minimum Loan Term: Not specified
+Maximum Loan Term: 70 days (10 weeks)
+Number of Rollovers: Not specified (Extension can be up to 10 weeks or 70 days)
+Number of Outstanding Loans: No limit
+Cooling-off Period: None
+Finance Charges: Not specified
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1999: – Utah passed “S.B. 57, the “Regulation of Check Cashing”(Title 7, Chapter 23, Check Cashing Registration Act).Utah Law required the registration and regulation of any company that serves consumers through check cashing or payday loan services.(According to thereportof the Commissioner of Financial Institutions of Utah.)
+2003: –S. 130amended the “Regulation of Check Cashers” and allowed borrowers to rescind deferred deposit loans by 5 p.m. the next business day and also to make partial payments in increments of at least $5 at no cost. Internet lenders also became covered by those laws.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Utah is now allowed to offer loans to the military in excess of 36% APR.
+2008: –S. 83amended the “Regulation of Check Cashers” and prohibited lenders from extending a new loan on the same business day the payment is made.
+2010: –H.B.15reduced the term for rollovers from 12 weeks to 10 weeks.
+2012: –B.459amended the “Regulation of Check Cashing” and made all the loans extended by lenders who were not properly registered under this chapter void.
+2014: – The billsB. 46 “Deferred Deposit Lending and Forum Requirements”andH.B. 47 “Deferred Deposit Loan Amendments”were introduced by the Utah Legislative. They would cap the number of loans a person can take at one given time. Unfortunately,both of them failed.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2016: –B. 292 Deferred Deposit Lending Amendmentswas passed. It required that lenders must check a borrower’s credit report before giving a loan, report loans to the state database, offer loan extension up to 90 days at no interest, and also, lenders have to report on the number of nonpayment lawsuits they file annually.
+2017: –HB  40: Effective May 9th of , the Check Cashion and Deferred Deposit Lending Amendments revised Chapter 23, Title 7 of the Check Cashing and Deferred Deposit Lending Registration Act. These Amendments modified the requirements for registration, authority over grant rulemaking; they amended rules regarding extensions of payday loans and altered requirements for the annual examination of each site. According to thereportof the Commissioner of Financial Institutions of Utah.
+
+========================================
+
+State: Arizona
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 36% usury cap
+
+History of Payday Loans:
+No history content found.
+
+========================================
+
+State: New Mexico
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Restrictions: 175% small loan cap
+
+History of Payday Loans:
+1916: – Many states adopted some form of theUniform Small Loan Lawsthat introduced a 2% or 3% small loan interest rate cap per month. Yet,  things were different with New Mexico. Its small loan legislation was enacted in 1939 and it presupposed a 12% APR cap on unsecured loans.
+1978: – The Supreme Court made a decision to repeal the aforementioned caps in order to make more room for the operation of the banks in their states. So did New Mexico in the period between 1981 and  1991, and by doing so it allowed the payday lending industry to grow and flourish in the 1990s.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in New Mexico is now allowed to offer loans to the military in excess of 36% APR.
+2007: – The Payday Loan Reform Law was enacted by the  New Mexico Legislature. The new reform allowed triple-digit interest payday loans. It set loan amount and term limits (not exceeding $2500 or  25% of a person’s gross monthly income, no later than 35 days) and introduced the loan database. These provisions were in place for years,  however, they were not effective enough to stop lenders from finding loopholes in the law and going on with their expensive loan practices.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2017: – New Mexico decided not to wait for the federal decision and took its own measures.HB 347was passed and it enacted the first statutory rate cap on payday loans.  The new law now allows not more than 175% APR on small loans under  $5,000, sets the loan term of 120 days at least, and requires arepayment planwith at least 4 equal payments. This bill amended the New  Mexico Small Loan Act (1955), the New Mexico Bank Installment Loan Act  (1959), and the Money, Interest, and Usury statute. It made the payday loan business both impossible and unprofitable in New Mexico.
+- Yet,  the bill as the state Legislature’s step to protect customers is not considered sufficient (especially by the industry opponents who proposed a radical 36% APR cap), however, considering the previous situation, it is better than nothing.
+
+========================================
+
+State: Colorado
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 36%
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: 6 months (180 days)
+Maximum Loan Term: Not Specified
+Number of Rollovers: 1
+Finance Charges: no more than 36% of the loan
+Statute of Limitations: 3 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+2000s: – Payday lending was legal in the state and lenders could charge high-interest rates.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Colorado is now  allowed to offer loans to the military at the excess of 36% APR.
+2007: – The law that  attempted to reform the payday lending industry was made, however, that  attempt failed. Lenders continued to make lump-sum high-cost loans but  were then required to offer an installment plan as well. Yet, in all  aspects, thereform was unsuccessful.
+2010: – Colorado enacted new  legislation that required all loans to be repaid at lower rates by  introducing affordable installment payments as a must.
+June 2, 2016: – The Consumer Financial Protection Bureau (CFPB) proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+- And while the fate of the federal regulation is still unclear, the state took their own measures meanwhile.
+November 6, 2018: – Colorado Legislature approved aballot initiative,  which is officially referred to as Proposition 111. It amends  Colorado’s Deferred Deposit Loan Act and reduces deferred deposit loans  interest rates and fees to 36%. Also, the Preposition 111 puts a stop to  any alternative APRs, origination and/or monthly maintenance fees, and  has other provisions with regard to payday loans. The measure took  effectFebruary 1, 2019.
+- The  new law doesn’t exactly outlaw payday lenders, however, the cap it  places is very likely to drive most of them away from the state as such  terms render the business entirely unprofitable.
+July 1, 2024: Colorado passes law capping consumer loan rates at 36% for out-of-state banks, effective. Applies to new/renewed loans, raising enforceability questions.
+
+========================================
+
+State: North Dakota
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 487%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 60 days
+Number of Rollovers: 1
+Finance Charges: 20% of the amount advanced
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1990s: – Payday lenders operated under the roof of pawn shops and charged triple-digit interest rates. The state Legislature had to request pawn shops to seize offering payday loans at one point when the rates got excessive. Yet, there was no separate regulation for the industry.
+July 1, 2001: – The first time payday loan law was enacted in North Dakota. The law set a limit to loan interest and charges at 20% of the loan amount. Many payday loan stores opened officially.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in North Dakota is now allowed to offer loans to the military in excess of 36% APR.
+April 1, 2013: – N.D. Century Code 13-08 was amended.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+Present days: – North Dakota still sticks to the same payday loan regulations it enacted in the 2000s.
+
+========================================
+
+State: South Dakota
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal (restrictions apply)
+Interest Rate (APR): 36% small loan cap
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: Not Specified
+Number of Rollovers: 4
+Finance Charges: $1.39 for a $100 loan given for 2 weeks
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1980: – South Dakota eliminated its usury ceiling.
+1990sand 2000s: – High-interest, short-term loans, namely, payday and car-title loans, came into the state.  In 2000, 95 businesses offered one or more alternative financial service in South Dakota and40 of them offered payday loans. South Dakota required payday lenders to be licensed, however, it placed no caps on fees. The situation stayed the same for more than 15 years.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in South Dakota is now allowed to offer loans to the military in excess of 36% APR.
+June 2, 2016: – TheConsumer Financial Protection Bureau  (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2016: – South Dakota decided not to wait for the federal decision. TheConstitutional Amendment Uwas proposed. The amendment would limit the ability to set statutory interest rates for loans. However,it didn’t pass.
+2016: – Nevertheless, it was closely followed by theInitiated Measure 21that was approved by votes with 76% in support. It effectively capped payday loans at 36% APR and did not allow the industry to create any further loopholes.
+2017: – In the result, 121 lenders did not renew their licenses and chose to leave the state; 75 stayed until they collected on existing loans.
+
+========================================
+
+State: Nebraska
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 36%
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 34 days
+Number of Rollovers: 0
+Statute of Limitations: 5 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1994: – First time when payday loans were introduced in the state.
+2000: –LB 932allowed lenders to hold checks longer than 31 days in case they were “not negotiable” (couldn’t be cashed).
+2006: –LB 876was passed. It extended the loan terms to 34 days. It also prohibited roll-overs.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Nebraska is now allowed to offer loans to the military in excess of 36% APR.
+June 2, 2016 – The Consumer Financial Protection Bureau (CFPB) proposed a Payday Loan Rule that hasn’t come into effect.: 
+- 2016 – There was an attempt (LB 1036) to set a limit to the payday loan APR to 36%; however, this effort came to nothing.
+- April 19, 2018 – LB 194  passed unanimously by the state Legislature and was approved by the  Governor. It didn’t restrict either the loan amount or rates, however,  it closed a loophole that payday lenders used to get around regulatory limits, imposed reporting requirements on payday lenders, and also imposed a requirement to provide a short payment plan for borrowers.
+- Taking into account that the Nebraska Department of Banking and Commerce had to deal with more than300 enforcement actionsagainst payday lenders for various violations since 2006, it is likely thatLB 194will be followed by other restrictive laws in the nearest future.
+November 3, 2020 –(Initiative 428); Annual interest rate was limited to 36%, loan amount – to $500, loan term to 34 days.: Before the new law ARP was %404, fee was $15 for the every $100 loan.
+
+========================================
+
+State: Kansas
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 391%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: 7 days
+Maximum Loan Term: 30 days
+Number of Rollovers: Not specified
+Number of Outstanding Loans: 2 from one lender
+Finance Charges: 15% of the amount advancedone NSF fee and 3% per month of the outstanding amount
+Statute of Limitations: 5 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1991: – The first time whenKansas Legislature paid attentionto the issue of payday loans and sensed the need for their regulations.  At that time check cashing for a fee had prevailed in Kansas. It also  appeared that the practice itself violated the Uniform Consumer Credit  Code (UCCC) as lenders advanced cash in return for the post-dated checks  and collected high-interest charges for it (600% – 1,600%). Thus,SB 363was introduced. It aimed to address the issue of excessive interest rates, however, it never made it to out of the Senate.
+1992: – Review of theSB 363.HB 2749was also reviewed, however, to no avail again.
+1993: – Finally,HB 2197was passed by both the House and Senate. It enacted new consumer  protections on payday loans, set limits to loan amount, loan terms and  finance charges. As a matter of fact, Kansas was among the first states  that enacted payday loan regulations.
+2004: – New limitations were introduced into the payday lending regulations by theKansas Legislature:  a 7-day minimum term, 3 outstanding loans at a time (during 30 days).  Also, the bill requested that all payday lenders in Kansas must keep  records of all payday loan transactions.
+2006: -b TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Kansas is now  allowed to offer loans to the military in excess of 36% APR. Specific  Kansas payday loan regulations with regard to the military can be found  in§16a-2-405.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2019: – Currently, Kansas  lawmakers are considering introducing a bill that would limit the  maximum APR to 36%. The proposal is still being discussed by the legislature.
+2021: – The billHB 2189is under review. HB 2189 replaces the consept “payday loan” to “small loan”, that can not be more than $2,500 with a min term 3 months and a max term 25 months; caps an anual rate at 36% for loans under $860 and 21% over $860.
+
+========================================
+
+State: Oklahoma
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 207% APR (17% monthly)
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $1,500
+Minimum Loan Term: 60 days (2 months)
+Maximum Loan Term: 365 days (12 months)
+Number of Outstanding Loans: 2
+Finance Charges: 17% interest each monthnor more than 20% of the customer monthly income
+Statute of Limitations: 5 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+2003 –: The Oklahoma Legislatureauthorized payday lending. According to the Oklahoma Deferred Deposit Lending Act (2003, amended in 2004), 2 outstanding payday loans at the time are allowed for 12 – 45 days with the maximum total amount of $500. Basically, all the loan terms stayed more or less the same for years.
+July 1, 2004: – All licensed payday lenders must record every Oklahoma payday loan in the Oklahoma Department of Consumer Credit database and check it every time before issuing new loans.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Oklahoma is now allowed to offer loans to the military in excess of 36% APR.
+- However, theDemographics of Payday Lending in Oklahomareport found out some years later after the MLA came into effect that“most of the payday lenders (199 out of 324) in Oklahoma are located within 10-mile radius of military installations and base.”And this is definitely saying something about the law-abiding nature of Oklahoma payday lenders, we assume.
+2012: –Bill 1082was signed, according to which information from the payday lending database is confidential.
+2013: – There were 358 licensed payday lending stores in Oklahoma according to the Center for Responsible Lending report.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+2017: – Yet, they managed to stop some of the “beneficial” high-cost products from appearing in Oklahoma. There was anunsuccessfulattempt on the part of the lenders to add “installment loans” to the Oklahoma market ($1,500 maximum amount, a 12-month term, 17% monthly interest). However, Governor Mary Fallin put avetoonHB 1913.
+April 18, 2019: –SB 720was signed (creation ofSmall Lenders Act): all small loans from all lenders for one borrower cannot exceed $1,500; all charges (interest rate) should not be more than 17% per month.
+
+========================================
+
+State: Texas
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): can exceed 400%
+Maximum Loan Amount: Not Specified (on average $800)
+Minimum Loan Term: 7 days
+Maximum Loan Term: 180 days
+Number of Rollovers: No restriction (no more than 3 if the City Ordinance was adopted)
+Number of Outstanding Loans: Not Specified
+Cooling-off Period: None
+Installment: Yes
+Finance Charges: >$30 => $1 for each $5[$30 – $100]  => 1/10 of the loan amount + $3 /mo (<$35)[$35 – $70]  => $3.50/mo + $4/mo (>$70)>$100  => $10 + $4/mo for each $100
+Statute of Limitations: 4 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+No history content found.
+
+========================================
+
+State: Minnesota
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 200%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $350
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 30 days
+Number of Rollovers: 0
+Finance Charges: <$50 = $5.5;$50 - $100 = 10% + $5;$100 - $250 = 7% (min $10) + $5;$250 - $350 =6% (min $17.5) + $5
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1939: – Minnesota passed the Small Loan Act. By doing so, it put a start to licensed lending in the state and gave way to loans up to $300 (under 3% monthly interest.)
+1995: – Minnesota passedStat. § 47.60 et seq.(the Consumer Small Loan Lender Act) and payday lending became legal in the state. It capped the loan amount at $350.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Minnesota is now allowed to offer loans to the military in excess of 36% APR.
+1999 – 2012: – The tricky thing about Minnesota law is that a payday lender can apply for an industrial loan and thrift company license (under Chapter 53 ofStat. § 47.60 et seq.) By doing so, lenders can offer loans in excess of $350 and sell open-ended loans, get around roll-over restrictions and other terms and requirements. Many lenders followed this route, and thus, there is no surprise that payday lending became a huge industry in the state and managed to collect as much as $12 million in fees (in the above mentioned period).
+2014: – A bill that would have capped the number of loans borrowers can takedidn’t pass.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+Present days: – There have been many attempts on the part of payday lenders to get around the law in Minnesota, however, many of these attempts have been successfully opposed by theMinnesota Attorney General Lori Swanson. Currently, no new regulations are expected in the nearest future.
+
+========================================
+
+State: Iowa
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 337% *
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 31 days
+Number of Rollovers: 0
+Finance Charges: $15 on the first $100 +>$10 on subsequent $100
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+Since: 1998– For years Iowa has been quite lenient when it came to payday loans. Payday lenders could chargeany maximum fee in 1998, 2001, and 2004. Also, an effective maximum APR on 14-day 100$ loan in Iowa increased from 391% in 1998 to 435% in 2004. According to the Pew Charitable Trusts, it was one of 27 “permissive” states in 2012 that allowed payday lending with minimal regulations.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Iowa is now allowed to offer loans to the military at the excess of 36% APR.
+2015: – There were 175 payday loan stores in Iowa, according to the state Division of Banking.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2019: –Recently, Iowa Senator Joe Bolkcom has written an article (published in theGlobe Gazette) where he suggested to limit payday loan interest rates to 36% APR. However, there hasn’t been any notice of this proposal turning into a bill proposal. Thus, no change so far.
+
+========================================
+
+State: Missouri
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 443% APR*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: 14 days
+Maximum Loan Term: 31 days
+Number of Rollovers: 6 times
+Finance Charges: No interest and fees in excess of 75% of the initial loan amount on any single loan
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1930s: – The first payday loans in Missouri can be traced. In order to avoid complying with the usury laws, lenders began issuing short-term loans with post-dated checks as collateral.
+1980s: – Interest rate limits on payday lenders were placed by the state. However, they seized being effective in 1998.
+1998: – The Missouri Legislature eliminated the usury cap altogether and by doing so gave payday lenders the freedom to charge whatever interest they wanted (actually, legally).
+2001: – A performance audit of the payday loan industry (issued by Missouri Auditor Claire McCaskill) revealed the lack of interest rate caps. According to the audit, the average APR for a payday loan was 391%. Out of good intentions, McCaskill recommended introducing a cap on the number of loan renewals for a customer. No offer to cap interest rates was proposed, however.
+- Eventually, the Missouri Legislature came up with the law that only made the situation worse as it “capped” fees and interest at 75% of the principal amount of the loan. This “limitation” led to ~1950% APR on a 2-week loan, the highest allowed in the country.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. No lender in Missouri is now allowed to offer loans to the military in excess of 36% APR.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+- There were attempts to change the situation on the state level (i.e. HB2657 that suggested capping fees and interest at 35% of the amount of a loan). It died.
+2018 – Nowadays: – Thus, despite the above mentioned federal regulations, there has been no change in legislation in Missouri for the payday lending Industry for 2018.
+- The current situation is not the same, however, as it was in the 2000s: compared to 1,335 licensed lenders operating in the state in 2005, there were 653 in 2017, which shows a somewhat declining trend in the industry. To a certain extent, it was caused by a shift to a different type of loans – installment loans. Also, the decrease can be explained by the fact that the elimination of usury cap in 2002 lead to the oversupply of stores and too many appeared in the state. Now, however, there is no need in such numbers, so, they shrink. Nevertheless, the use of payday loans in Missouri is still twice the national average.
+
+========================================
+
+State: Arkansas
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 17% usury cap
+
+History of Payday Loans:
+No history content found.
+
+========================================
+
+State: Louisiana
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 391%*
+Maximum Loan Amount: $350
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 30 days
+Finance Charges: 16.75% of the amount advanced
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+Before 1990s: – Louisiana had 12% usury cap on loans.
+1990s: –La. Stat. Ann. 9:3578.1 et seq., or Louisiana Deferred Presentment and Small Loan Act, exempted payday loans from usury laws and the payday loan stores opened for business.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.
+2010: – The Legislature passed a law that allowed increased fees on payday loans.
+2014: – The Louisiana Legislature took an attempt to pass the bill that would have capped payday loan APR at 36%. The bills didn’t pass.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+2018: – The Louisiana Senatetried to pass a bill to expand payday industry(theLouisiana Credit Access Loan Actthat would allow payday loans from $500 to $875 for terms of 3-12 months), however, aneffort failedin a House committee.
+
+========================================
+
+State: Wisconsin
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 574% APR*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $1,500 (or 35% of the gross monthly income)
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 90 days
+Number of Rollovers: 1
+Finance Charges: 2.75%/mo
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+Before 2010: – Wisconsin is a unique state of sorts. It was the last in the country to introduce payday loan regulations with regard to the amount and the APR. For years, payday lenders in the state led a very frivolous live and offered various loans that were not anyway regulated. Many of these products had no rollover limits, neither lenders were required to check the potential customers in the database.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Wisconsin is now allowed to offer loans to the military in excess of 36% APR.
+2010: – A bill was passed that introduced zoning restrictions for payday loan stores in Wisconsin. Also, it capped the loan amount to $1,500 or 35% of the borrower’s gross monthly income, whichever is less.
+2011: – Payday loans definition changed and started to include only the loans with the maximum loan term of 90 days. At once, payday lenders started offering new products (installment loans) with longer terms (from 91 days and longer) in order not to comply with the payday loan laws.
+2011 – 2015: – 308 complaints about payday lenders in Wisconsin were sent to the Department of Financial Institutions. They resulted in 20 enforcement actions on the part of the government of the state.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+- However, it is unknown whether the rule will ever come into effect. Thus, currently Wisconsin remains one of the states with the most lenient payday loan regulations.
+
+========================================
+
+State: Illinois
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 36%
+Maximum Loan Amount: $1,000 (or 25% of the gross monthly income)
+Minimum Loan Term: 13 days
+Maximum Loan Term: 120 days
+Number of Rollovers: 0 (for installment payday loans is just one time)
+Number of Outstanding Loans: 2
+Cooling-off Period: 7 days after 45 consecutive loan days
+Installment: Yes
+Finance Charges: $1 verification feeA fee does not exceed $25 for insufficient funds
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+2000: – The state of Illinois, in attempts to further regulate payday lenders, passed laws to regulate any loan carrying a term less than 30 days. Payday lenders have opted to extend the length of some loans to 31 days in a response to the laws.
+2005 –: Before thePayday Loan Reform Act(2005), payday lenders were largely unregulated in Illinois. The PLRA prohibited unlimited rollovers and set that payday loans must be based on a borrower’s ability to pay.The law regulated loans with terms less than 120 days. However, payday lenders began offering loans for longer terms to avoid the
+2005 – now: – Triple-digit APR installment payday loans became common.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. No lender in Illinois is now allowed to offer loans to the military in excess of 36% APR.
+March 21, 2011: –HB 537It amended thePayday Loan Reform Act (PLRA)to createInstallment Payday Loansand theConsumer Installment Loan Act (CILA)to createSmall Consumer Loans.
+- The Illinois Payday Loan Reform took hold in 2011 and the situation stays the same since then.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect.
+March 23, 2021: –SB 1792was signed by Governor JB Pritzker, it caps rates on payday loans (and all consumer loans under $40,000) at 36%.
+
+========================================
+
+State: Indiana
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 391% APR*
+Minimum Loan Amount: $50
+Maximum Loan Amount: $550
+Minimum Loan Term: 14 days
+Maximum Loan Term: Not Specified
+Number of Rollovers: 0
+Number of Outstanding Loans: 1 loan from 1 lender, 2 loans in total
+Finance Charges: <$250 loan amont = 15% fee$250 - $400 loan amount = 13% fee$400 - $550 loan amount = 10% fee
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+1973: – The Indiana State Legislature got its version of the Consumer Credit Protection Act in the form of Ind. Code §35-45-7. It introduced theusury cap of 72% APR(two times the ratespecified in IC 24-4.5-3-508(2)(a)(i)) and requested lenders to comply with it. Charging the rates in excess of this limit would be considered“loansharking, a Level 6 felony.”
+1990s: – First payday loans appeared in the state of Indiana.
+1993: – The Indiana Department of Financial Institutions was created. It regulates traditional banks and small lenders, and also, the payday lending industry. However, payday lenders continued to grow in numbers, flourish, and charge 391%APR in Indiana regardless of the aforementioned usury cap.
+2002: – All thanks to the new legislation introduced by the Indiana General Assembly thatexempted payday lenders from the 36% APR cap. Such a move officially allowed payday lenders to charge at their discretion.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Indiana is now allowed to offer loans to the military in excess of 36% APR.
+2000 – Nowadays: –Code Ann. § 24-4.5-7-101 et seq.(its key terms are mentioned earlier in the text)currently regulatesthe activity of payday lending companies in the state.
+2013: – According to theCenter for Responsible Lendingreport, 4,220 loans were taken in Indiana, with an average of $317.
+2015: – There were35 active licensed lendersin Indiana.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect.
+- However, it is more and more unlikely that the rule will ever come into effect and not without Indiana’s assistance: a specific bill in the U.S. Senate that would enact many previous regulations is actually being co-sponsored by an Indiana senator.
+2018: –SB 245was intended to raise the minimum amount of a loan, itfailedto pass into the Senate.
+2018: –SB 325was intended to raise the loan limits to $605 and $1,500, respectively, increase the loan term from 90 days to 12 months and allow APR of up to 222%. The bill passed the Indiana House, however, itdiedin the Indiana Senate.
+2019: – Another bill,SB 104, was intended to cap payday loan APRs at 36%, however, it was voted down.
+April 2019: – The most recent bill,SB 613, passed the Senate butdiedin the House. It would permit two new types of loans. These loans include those whose amounts are $605 up to $1,500 and whose loan life ranges from six months to 12 months. The APR of these loans is up to 192%.
+- Thus, as of today, the situation stays the same. However, Indiana is one of the states where payday lenders do make a stir and are not ready to give up easily.
+
+========================================
+
+State: Michigan
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 369% APR*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: 600
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 31 days
+Number of Rollovers: 0
+Number of Outstanding Loans: 2 at a time
+Finance Charges: 15%-11% (depending on the number of $100 transactions)
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+2005: – Michigan passedDeferred Presentment Service Transaction Actthat regulates all payday lending in the state. There hasn’t been much change to it over the years.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. No lender in Michigan is now allowed to offer loans to the military in excess of 36% APR.
+2017: – Senate Bills430,431, and432were introduced. They proposed to increase payday loan amounts to $2,500 and loan term to a maximum of 48 months. At the same time, APR would have been capped at 180%. However, all three bills seem to have never left the Senate Committee on Banking and Financial Institutions after getting there in . And at the present moment, there is nothing left but to wait. The law has proponents as well as numerous opponents.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).failed attemptswere:
+Oct 5, 2017: – TheConsumer Financial Protection Bureau (CFPB)issuedthe Final Payday Loan Rulethat hasn’t yet fully come into effect.
+2019: – In the light of the coming (or not) federal legislative restrictions, Michigan does not have any current state legislative proposals to bring on a vote.
+June 22, 2023: – Michigan’s House approved HB 4343, mandating annual payday lending reports to combat predatory practices with unfair loan terms.
+
+========================================
+
+State: Ohio
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 28%
+Maximum Loan Amount: $1,000
+Minimum Loan Term: 91 days
+Maximum Loan Term: 1 year
+Number of Rollovers: 0
+Number of Outstanding Loans: 0
+Restrictions: No more than $2,500 borrowed amount from all lenders
+Finance Charges: 28%
+Statute of Limitations: 8 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+Before the 1990s: – Ohio law prohibited payday loans for more than 50 years.
+1995: – ThePay Day Loan Actwas approved by the Legislature in Ohio; it presupposed state licensing of payday lenders and also exempted payday lenders from the state’s usury laws. Payday lending stores opened for business in Ohio and soon the industry grew and flourished charging triple-digit ARP.
+1997: – Some banks, e.g. Wells Fargo, started offering expensive “deposit advance” loans against the next paychecks of the customers.
+2000: – Ohio prohibited any court actions against customers where payday lenders could use the Civil Damages for Crime Victims law.
+- Lenders were requested to disclose all the loan terms (APR, primarily) under the Truth in Lending Act. The measure was actively opposed by the lenders.
+2002 – 2004: – A rent-a-bank scheme was very popular, however, finally, the FDIC put a stop to bank-payday partnerships.
+2004: – The rise of Internet loans (as a new way to evade state usury laws). (Clevelend.com)
+2007: – The number of a payday loan stores was raised from 107 (in the 1996 year) to 1638 locations.
+2008: – Ohio enacted theShort-Term Lender Law (“STLA”). TheOhio Short-Term Loan Actcapped the interest at 28% and imposed a $500 restriction on payday loans.However, due to the possibility for payday lenders to register as mortgage lenders underOhio’s Mortgage Lending Act (MLA)no lenders obtained licenses under theShort-Term Loan Act.MLAhas a 25% interest rate cap, but none of the other STLA restrictions. Here, payday lenders managed to evade the regulations again, this time by registering as credit services organizations (according to the newly-createdCredit Service Organizations Act). Hence, the exorbitant interest rates, again.
+Short-Term Loan Act: However, due to the possibility for payday lenders to register as mortgage lenders underOhio’s Mortgage Lending Act (MLA)no lenders obtained licenses under the.
+MLA: has a 25% interest rate cap, but none of the other STLA restrictions. Here, payday lenders managed to evade the regulations again, this time by registering as credit services organizations (according to the newly-createdCredit Service Organizations Act). Hence, the exorbitant interest rates, again.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethathasn’t yet fully come into effect(the federal rule is expected in November 2020).
+October 29, 2018: – Finally, Ohio enacted theFairness in Lending Act. It requires all nonbank lenders to obtain aShort-Term Loan Lawlicense, caps APR at28%and sets a maximum loan amount of$1,000.
+prohibited: Now lenders registered as Credit Services Organizations arefrom giving loans of less than $5,000 and exceeding the APR of 28%.
+October 29, 2018: The law became effective; lenders must comply with its provisions onApril 27, 2019.
+- The question is whether this measure can unintendedly shift the focus to other industries favored by unbanked and underbanked people, for instance, to pawnbrokers, and how much of a headache similar to payday loans it will be.
+
+========================================
+
+State: Kentucky
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 460% APR*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 60 days
+Number of Rollovers: 0
+Finance Charges: $15 per $100
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+1992: – Kentucky legislature passedHB 747which enacted KRS Chapter 368. According to this bill, all check cashing businesses had to to be licensed by the Department of Financial Institutions(DFI). The bill had no mentioning of deferred deposit transactions at that time, however, allowed check cashers to charge some unspecified fee that wasn’t considered interest.
+1992-1998: – Deferred deposit businesses were added to HB 747. They grew in numbers and flourished offering deferred deposit transactions without any interest rate or fee caps.
+1998: –HB 266was passed by Kentucky legislature. Deferred deposit transactions appeared the part of the check cashing statute, KRS Chapter 368 and, thus, capped the “service fees” at $15 per $100.
+1999: – Supreme Court of Kentucky found out that before 1998 all deferred deposit businesses were not supposed to be exempt from the state usury laws (which sort of made all the past transactions illegal?)
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Kentucky is now allowed to offer loans to the military in excess of 36% APR.
+2009: – The Kentucky Legislature passed a payday loan law that introduced a 2-loan limit with a $500 total. Also, the10-year moratorium on new check cashersbegan July 1. The new licenses were not to be issued since that time. Current licenses were transfer-able or assignable, subject to approval by DFI.
+2010: – Astatewide database, theKentucky Deferred Presentment Transaction System, was added as one of the amendments of the payday loan law. It was intended to enforce the aforementioned limitation. The fees and charges stayed the same. Yet, according to the2014 report, A reform from  poses a gap in which payday loan borrowers may take out no more than 52 loans per calendar year, under Kentucky law.
+2014: – There was another attempt to pass a more restrictive bill on payday loan (Kentucky Senate Bill 32). It was presupposed to introduce an interest cap for payday loans that would prohibit charging more than 36% of the total borrowed amount. This bill was discussed in the Kentucky House of Representatives as well and it failed to pass in the House Banking and Insurance Committee. Provided that the legislation had passed, Kentucky would have joined 18 other states (DC including) that have already had the law in action. However, the votes were divided in the following way: 10-13, and at the moment no changes in the law in this respect so far.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+2018: – Another attempt to bass abillthat would effectively cap payday loan rates at 36%failed.
+March 2019: – Kentucky practicallybanned all new payday loan providersin the state.B. 145was signed by the governor, it establishes separate licenses for check cashing and deferred deposit service businesses.
+permanent: Initially, the new law only presupposed to set apart the licenses for check-cashing businesses and deferred deposit businesses (payday lenders). However, the bill’s amendment put a full stop to any new  deferred deposit licenses. In other words, a temporary moratorium on new payday loan licenses that have been in effect for 10 years (from 2009 – to expire this summer) in Kentucky would now be.
+- For now, payday lenders with a currently valid state license are allowed to continue to operate. However, with time, when they expire, they won’t be renewed, and new ones won’t be issued altogether. The new law comes into effect on July 2019.
+
+========================================
+
+State: Tennessee
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 460%*
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 31 days
+Number of Rollovers: 0
+Number of Outstanding Loans: 2 (not more than $500 from all loans)
+Finance Charges: 15% of the amount of the check$17.65 for $100 borrowed
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1990s: – Check Into Cash, allegedly fist payday loan company was founded by Allan Jones in Tennessee. Payday loan industry was born and developed.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. No lender in Tennessee is now allowed to offer loans to the military in excess of 36% APR.
+2010: – Tennessee Legislation was one of the 25 states that passed serious legislation in with regard to payday loans.Deferred Presentment Services Actcapped finance charges at 15% and a maximum loan amount at $500.
+2014: –Metro Council of Nashvillepassed a zoning law that prohibited payday lenders from being located closer than 1/4 of a mile from another payday loan location.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+- So far, the situation in Tennessee stays the same. Lawmakers have long offered imposing a 36% annual interest rate cap on payday loans; however, this measure is still under consideration.
+
+========================================
+
+State: Mississippi
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 521% APR*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 30 days
+Number of Rollovers: 6, loan must be reduced by at least 5% for every rollover
+Finance Charges: FInance charges:<$250 = not more than $20 per $100$250 - $500 = not more than $21.95 per $100
+Statute of Limitations: 3 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+Before 1998: – All Mississippi lenders (and the ones that offered small loans as well) had to comply with the 36 % APR usury cap.
+1998: – Payday lenders were exempted from this 36 % APR usury cap by the law passed by Mississippi Legislature. In the result, they could charge as much as $21.95 per $100 (for loans of $400 and less).
+2003: – Also, 7, 14, and 30-day loan terms were permitted; which resulted in 1144% APR, 572% APR and 267% APR, respectively.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in Mississippi is now allowed to offer loans to the military in excess of 36% APR.
+2012: – The sunset provision built into then existing legislation was meant to remove the exemption (of payday lenders from the usury cap) in . It wassupposed to be final: licensed lenders are not able to apply interest rates above 100% under the exemption to Mississippi’s 36% cap on interest, as the exemption expired in .
+2012 Check Cash Cashing Act: However, they got thefashioned instead. It made payday lending permanently legal in Mississippi. And it had a tricky loophole that allowed payday lenders to charge triple-digit interest rates. Instead of issuing loans of up to $400 for 30 days, they offered several loans of up to $250 for 14 days each, and by doing so they could get much more in fees. There were numerous attempts to close this loophole in the law, however, all of them failed.
+2016: – Besides, instead of restricting the high-cost loan industry, the Mississippi Senate approved installment-loan legislation.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+- However, it is unknown whether the rule will ever come into effect. And it is equally hard to say, provided that it will, whether it will effectively close the loophole for payday lenders in Mississippi, or not.
+
+========================================
+
+State: Alabama
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 456%*
+Maximum Loan Amount: $500
+Minimum Loan Term: 10 days
+Maximum Loan Term: 31 days
+Number of Rollovers: 1
+Number of Outstanding Loans: None
+Cooling-off Period: Next business day after repayment
+Installment: As repayment plan: 4 equal installments
+Finance Charges: not more than 17.5% of the amount advanced
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+1994: – Alabama Attorney General issued an opinion that payday loans were to be covered by theAlabama Small Loan Act, the Mini-Code, and became the subject toTruth-in-Lending Disclosure
+1998: – The “Alabama State Banking Department issued 150 cease and desist orders” to lenders violating the interest rate cap. (League of Women Voters of Alabama 2016 report) With no success.
+2002: – Lenders managed to introduce certain modifications to theAlabama Small Loan Actwhich resulted in “an  alternative rate schedule and increase of the allowable loans to  approximately 190% APR (Act1959-374Sect.5-8-15, Alternative rate  schedule, subsection(m)).” (League of Women Voters of Alabama 2016 report)
+2003: – The Legislature passed theDeferred Presentment Actthat carried additional exceptions for small loans and set theAPR at 456% (effective as of today).
+2013: – Payday lenders sued the Alabama State Banking Department with the aim to block the creation of a database system that was designed to prevent lenders from over-lending.
+2015: – HB417 requires businesses need to use adatabaseto check if a customer already has a loan of more than $500.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethathasn’t yet fully come into effect(expected in November 2020).
+2018: – The legislature failed to passSB 138.(in support of30 Days to Payreform that would require lenders to issue loans on a 30-day repayment schedule). Though it passed the Senate, it died in the House Financial Services Committee (as many more legislatures before it).
+- In a 2018 survey by PARCA, 84.1% of Alabamians opposed payday lending, with 52.5% supporting a ban and 31.6% favoring restrictions. This represents a substantial increase from the previous year.
+2019: – Alabama lawmakers are growing impatient with the CFPB rule’s outcome.The  Legislative  Session is to have a look at the payday loan issue once again. And with the majority of Alabamians being in favor of a36% APR rate capand30 Days to Pay reform, chances are that this time the efforts of consumer advocates won’t be wasted.
+2020: – The Senate rejected an attempt to extend the payday loan maturity to 30 days.
+
+========================================
+
+State: Georgia
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 10% small loan cap
+
+History of Payday Loans:
+No history section found for Georgia.
+
+========================================
+
+State: Florida
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 304%*
+Maximum Loan Amount: $500 for single payment and $1,000$ for installment loans
+Minimum Loan Term: 7 days for single payment and 60 days for installment loans
+Maximum Loan Term: 31 days for single payment and 90 days for installment loans
+Number of Rollovers: 0
+Number of Outstanding Loans: 1 at a time
+Cooling-off Period: 24 hours
+Installment: Yes
+Finance Charges: 10% of an amount and $5.00 verification fee
+Statute of Limitations: 5 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+1990s: – Many payday lenders had extended loans with rates that exceeded the state of Florida’s 18 percent usury limit. This is regarded as a reflection of the poor state of regulations at the time. (Center for Responsible Lending)
+2001: – Florida’s payday loan law, theDeferred Presentment Act, passed. It contained all the current payday loan regulations and was meant to regulate and bring order into the industry. However, as time showed, its practices (meant for the better) failed.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2018: – Florida’s House and Senate passedthe Deferred Presentment Transactions Law (SB 920)that will allow installment payday loans up to $1,000 repayable in 60 to 90 days (to take effect on July 1, 2019).The need for changes was also caused by thefactthat –$306 million was paid towards fees by Floridians on $3.09 billion borrowed between July 2016 and June 2017. Thus, in the attempt to help consumers, lawmakers decided to offer 3-month installment payday loans apart from the short-term loan product already in place.There is much controversy around this law, however, and many industry opponents say that it will only bring more profit to the lenders and the customers will suffer even more.
+
+========================================
+
+State: South Carolina
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 391% APR*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $550
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 31 days
+Number of Rollovers: 0
+Finance Charges: 15% of the amount advanced
+Statute of Limitations: 3 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+2000s: – Before South Carolina introduced payday loan regulations in 2009,more than 4 million loans a yearwere taken in the state.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions, thus, no lender in South Carolina is now allowed to offer loans to the military in excess of 36% APR.
+2009: – South Carolina Legislation introducedSouth Carolina Deferred Presentment Services Act. It was the first payday loan law that was passed to help regulate the industry. It limited the number of outstanding loans to one, and set a limit of $550 for a loan. Also, it capped financial charges on any given loan.
+2010: – However, the success was short-lived as payday lenders in the state promptly found the way to get around the law. The lenders simply abandoned their payday loan licenses and becameshort-term “supervised” lenders. In fact, this loan is very similar to a payday loan, however, it can presuppose collateral (a payday loan does not). Besides, supervised lenders are not subject to payday limitations and regulations. There is no set limit for either the term of a supervised loan or its interest rate. Also, lenders don’t care about checking borrowers via the database. In the result, out of 640 payday lenders that operated in  nearly 100 were re-licensed as supervised lenders. (Alliedprogress.org)
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+- However, as the time passes, it seems more unlikely that the rule will ever come into effect. There is no secret thatMick Mulvaney, a former South Carolina Congressman who got agreat deal of support from payday lendersduring his term in the Congress, wasn’t eager to enforce the CFPB’s rule. Neither is Kathy Kraninger, who’s leading it now, for that matter.
+- Thus, payday lenders in South Carolina continue to successfully evade state laws and thrive.
+
+========================================
+
+State: North Carolina
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 36% APR small loan cap
+
+History of Payday Loans:
+1997: – The first legislation that concerned payday lending was passed.
+1999: – Payday lending was legal in the state. It was allowed to be so till 2001 (until “sunset”).
+2001: – Payday loan law expired. North Carolina Legislature took into consideration the predatory nature of such loans and their threat to small incomes and decided to put a stop to the industry. The General Assembly passed a law thatbannedall payday loan businesses in the state. In fact, North Carolina was the first state in the country that made payday lending illegal.“There have been no payday loans available in North Carolina since 2006, ”the Charlotte Postreported in 2016.
+- However, it took time to get rid of all the illegal lenders that operated in the state. The greatest improvement in the situation happened when a lot of them were held liable and convicted for the harassing actions towards borrowers.
+2015: – Online lenders were a great problem as their operations were technically legal. However, the North Carolina Business Courtbanned several companiesfrom operating in the state, canceled existing loans, and took other legal measures.
+2018: – There was an attempt to pass the bill that would allow payday lending but with the condition of the present small loan cap. However, it was unsuccessful.
+Present days –: As of 2019, by law payday loans remain prohibited in the state of North Carolina.
+
+========================================
+
+State: Virginia
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 36%
+Minimum Loan Amount: Not specified
+Maximum Loan Amount: $2,500
+Minimum Loan Term: 4 months
+Maximum Loan Term: 24 months
+Number of Rollovers: 0
+Number of Outstanding Loans: 0
+Installment: Yes
+Finance Charges: The maintenance fee up to 8% or $25 (monthly)Total costs are not more than 50%The late fee is $20No verification fee
+Statute of Limitations: 5 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+July 1, 2002: – The Legislation allowed payday lenders licensed by the State Corporation Commission (SCC) to open their businesses. Payday lending industry started to flourish.
+2006: – theMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. No lender in Virginia is now allowed to offer loans to the military in excess of 36% APR.
+2009: – Virginia passedHB 12 Payday Loan Actand imposed payday lending restrictions (36%APR, max 20% loan fee). Those measures were aimed to protect Virginia customers and prohibit lenders from charging triple-digit APRs. However, lenders managed to find loopholes to go around the law.
+- Illegal Internet payday lenders are one of such loopholes and the reason behind real triple-digit APR rates in the state.
+June 2, 2016: – The Consumer Financial Protection Bureau (CFPB) proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+2020: –  New legislation (HB 789) was enacted: interest and fees < 36%, max loan amount < $2500, loan terms are 4 months (min) and 24 months (max).
+
+========================================
+
+State: West Virginia
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 31% APR for loans up to $2,000
+
+History of Payday Loans:
+never allowed payday lending: West Virginiain the state.
+Present days: – As of 2019, by law payday loans remain prohibited in the state of West Virginia.
+
+========================================
+
+State: Pennsylvania
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 6% APR small loan cap
+
+History of Payday Loans:
+1998 – Pennsylvania made: payday lendingillegalaccording to theCheck Cashing Licensing Act of 1998, 505(a).
+2018 – An attempt to pass a bill: (HB 2429) that would allow payday lenders to return as “loan-brokers” and get a Pennsylvania credit-repair organization license. The bill would create a loophole where fees charged would not be considered interest. Predatory lending would definitely come back. Luckily, the billdied in Committee.
+Present days –: As of 2019, by law payday loans remainprohibitedin the state of Pennsylvania.
+
+========================================
+
+State: New York
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 25% small loan cap
+
+History of Payday Loans:
+No history section found for New York.
+
+========================================
+
+State: Vermont
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 18% APR small loan cap
+Statute of Limitations: 6 years (from the last payment)
+
+History of Payday Loans:
+2001: – Vermont stopped payday lending in the state (8 V.S.A. § 2519(a)(13)).
+May 2012: – The Vermont Legislature applied consumer protection laws to payday loans. In fact, no other state had ever done anything like this before: it made illegal lenders and those who assist them directly liable underVermont’s Consumer Protection Act. 9 V.S.A. § 2481w.First of all, it made all unlicensed lending“an unfair and deceptive act and practice”and by calling it so, a direct violation of the Consumer Protection Act.Also, it made all financial processing on behalf of unauthorized lenders illegal as well. (9 V.S.A. § 2481w(c)).Lastly, any “substantial assistance” to an unauthorized lender is also considered a violation of the Consumer Protection Act.
+- First of all, it made all unlicensed lending“an unfair and deceptive act and practice”and by calling it so, a direct violation of the Consumer Protection Act.
+- Also, it made all financial processing on behalf of unauthorized lenders illegal as well. (9 V.S.A. § 2481w(c)).
+- Lastly, any “substantial assistance” to an unauthorized lender is also considered a violation of the Consumer Protection Act.
+Present days: – As of 2019, by law payday loans remain prohibited in the state of Vermont.
+
+========================================
+
+State: New Hampshire
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal (restrictions apply)
+Interest Rate (APR): 36% small loan cap
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: 7 days
+Maximum Loan Term: 30 days
+Number of Rollovers: 0
+Finance Charges: $1.38 for a $100 loan given for 2 weeks
+Statute of Limitations: 3 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+April 13th, 2003 – Nowadays: – The New Hampshire Banking Department has been regulating payday lending industry in the state.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in New Hampshire is  now allowed to offer loans to the military in excess of 36% APR.
+January 1, 2009: – New  legislation went into effect in New Hampshire with regard to payday  loans. It effectively prohibited charging APR in excess of 36% APR for  payday loans. It did not technically prohibit the operation of payday  lenders in the state, however, many companies decided to close the  centers in New Hampshire as the aforementioned terms rendered the entire  business unprofitable.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+Present days: – Payday loans are now officially legal in New Hampshire, however, not many offers are there to be found.
+
+========================================
+
+State: Maine
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 30% APR; In Fact - 217%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $2,000
+Minimum Loan Term: Not Specified
+Maximum Loan Term: Not Specified
+Finance Charges: Alternative to small loan cap:<$75 = $5;$75-$250 = $15;>$250 = $25
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+Mid-2000’s: – There were  certain national banks that made payday loans for several years.  However, they stopped doing so after federal regulations were adopted.
+Since 2000s – Maine Consumer Credit Code: (Rev. Stat. Ann. tit 9-A §1-201) has been regulating payday loan industry for years. The same laws apply as of April 2019.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Maine is now  allowed to offer loans to the military in excess of 36% APR.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2017: – While the rule is not yet in place, payday lenders do not stop their attempt to broaden their limits in Maine and tofind loopholes in the law.  They tried to pass a bill that would authorize high-interest, long-term  loans, and also to charge a new origination fee, and a new monthly  maintenance fee. Unfortunately, the attempt was unsuccessful, and the  situation in the industry stays the same at the moment.
+
+========================================
+
+State: Massachusetts
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 23% small loan cap
+
+History of Payday Loans:
+never authorized: Massachusettspayday loans.
+1980: –M.G.L. c. 140, §§ 96 through 113has been holding lenders to an interest cap that prohibits payday loans.
+Present days –: Payday loans are currentlyillegalin Massachusetts.
+
+========================================
+
+State: Rhode Island
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 261%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $500
+Minimum Loan Term: 13 days
+Maximum Loan Term: Not Specified
+Number of Rollovers: 1
+Finance Charges: 10% of the amount advanced
+Statute of Limitations: 10 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+2001: – Rhode Island included payday lending into itscheck cashing statute. Payday loan stores opened in the state.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR. This federal law has no exceptions,  thus, no lender in Rhode Island is now allowed to offer loans to the military in excess of 36% APR.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2018: –S 2173was introduced by the Legislature. It would eliminate the exemption from usury laws for payday loans and introduce a 36% cap small loan cap. However, the billdidn’t pass: “Committee recommended measure be held for further study.”
+2018: – Thesame happenedwithS 2333, the bill that would“allow small loan lenders to charge borrowers fees pursuant to applicable federal and state laws as long as they are disclosed and agreed to in writing.”Thus, as of today, payday loan regulations stay the same in Rhode Island.
+
+========================================
+
+State: Connecticut
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 12$ small loan cap
+
+History of Payday Loans:
+No history content found.
+
+========================================
+
+State: New Jersey
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 30% usury cap
+
+History of Payday Loans:
+1993 –: TheCheck Cashers Regulatory Actprohibited check cashers to cash or advance money on a postdated check.
+2006: – TheMilitary Lending Acteffectivelycapped payday loansoffered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in New Jersey is now  allowed to offer loans to the military in excess of 36% APR.
+2013: –Statute N.J.S.A. 2C:21-19(a)prohibits payday lending through criminal usury and limits loans to 25% and 30% APR, respectively.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (the federal rule is expected in November 2020).
+- The  situation in New Jersey stays the same. However, it is hard to predict  how it will change should the Rule not come into effect as it is  expected.
+
+========================================
+
+State: Delaware
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 521%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $1,000
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 60 days
+Number of Rollovers: 4
+Finance Charges: No limit
+Statute of Limitations: 3 years (from the last payment)
+Database Loan Tracking: Yes
+
+History of Payday Loans:
+Before 2012: – Payday loans  existed in some from and lenders operated more or less freely. The  Delaware Office of the State Bank Commissioner has been regulating the  industry since May 16th, 1987.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Deraware is now  allowed to offer loans to the military at the excess of 36% APR.
+2012: – Delaware passedH.B. 289to protect vulnerable borrowers. The set a limit of 5 loans per  12-month period. The definition of short-term loans was altered to  include $1,000 loans (instead of $500). A special database to track the  number loans taken by customers in Delaware a year was established and  the requirement that lenders have to check it prior to lending was  introduced. Also, theDelaware Banking Commissionerwas requested to provide a yearly report on payday loan industry to the  General Assembly. As a matter of fact, these regulations are still in  force today.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2016: – The legislation wanted to passH.B. 446that would cap payday and installment loans at 100% APR and prohibit  lenders to make repeated attempts at automated withdrawals. However, it  seems tonever have seen the light: “6/30/16 Reported Out of Committee (HOUSE ADMINISTRATION) in House with 5 On Its Merits“.
+
+========================================
+
+State: Maryland
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 33% APR cap (2.75% a month)
+
+History of Payday Loans:
+No history section found for Maryland.
+
+========================================
+
+State: District of Columbia
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 24% small loan cap
+
+History of Payday Loans:
+No history section found for District of Columbia.
+
+========================================
+
+State: Alaska
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 435%*
+Maximum Loan Amount: $500
+Minimum Loan Term: 14 days
+Maximum Loan Term: Not Specified
+Number of Rollovers: 2
+Finance Charges: 15% of the amount advanced
+Statute of Limitations: 3 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+No history content found.
+
+========================================
+
+State: Hawaii
+========================================
+
+Payday Loan Regulations:
+Legal Status: Legal
+Interest Rate (APR): 460%*
+Minimum Loan Amount: Not Specified
+Maximum Loan Amount: $600
+Minimum Loan Term: Not Specified
+Maximum Loan Term: 32 days
+Number of Rollovers: 0
+Finance Charges: 15% of the amount advanced;<$17.65 for $100
+Statute of Limitations: 6 years (from the last payment)
+Database Loan Tracking: No
+
+History of Payday Loans:
+1999: – First payday lending laws appeared in Hawaii, when the Legislature passed theCheck Cashing Act (Act 146, Chapter 480F, Hawaii Reversed Statute)that exempted payday lenders from the necessity to comply with 24%  usury cap. Payday lenders got an official name of “deferred deposits”  lenders and started operating in the state.
+2001: –Act 20, Hawaii Reversed Statute, Chapter 480F– theamendmentthat removed sunset date from the Act.
+2003: –Act 222, Hawaii Reversed Statute, Chapter 480F– theamendmentthat limited the loan term to 32 days and increased maximum loan amount to $600.
+2006: – TheMilitary Lending Acteffectively capped payday loans offered to the military at 36% APR.  This federal law has no exceptions, thus, no lender in Hawaii is now  allowed to offer loans to the military at the excess of 36% APR.
+2015: –HB 744wasintroduced.  It was supposed to place a cap on the interest that a check casher  could charge for a deferred deposit loan at 36% APR. The final billfailedto come out of the committee.
+2016: –HB 2608was introduced as a set of new requirements for payday lenders:  registration of check cashers, a bond, the verification that customer  has only 1 outstanding loan at any given time; it also requires an  extended payment plan to be offered to borrowers who can’t repay in  time.
+June 2, 2016: – TheConsumer Financial Protection Bureau (CFPB)proposed aPayday Loan Rulethat hasn’t yet fully come into effect (expected in November 2020).
+2017: –SB 286wasintroduced:“A customer has the right to rescind a deferred deposit by returningthe  principal amount used to fund the deferred deposit.” The new law would  also allow to convert a payday loan into an installment loan. And it  would also put a 36% APR on a deferred deposit loans. Itfailedas many before it.
+
+========================================
+
+State: Guam
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+
+History of Payday Loans:
+No history section found for Guam.
+
+========================================
+
+State: Puerto Rico
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 25% small loan cap (or set by Finance Board)
+
+History of Payday Loans:
+2000: – TheP.R. Laws Ann. §10-942 et seq.read that all small lenders cannot charge more than25% APR.
+Present days –: Payday loans are currentlyillegalin Puerto Rico.
+
+========================================
+
+State: Virgin Islands
+========================================
+
+Payday Loan Regulations:
+Legal Status: Prohibited
+Interest Rate (APR): 25% small loan cap
+
+History of Payday Loans:
+2000: – TheV.I. Code Ann. Tit. 9§182 et seq.read that all small lenders cannot charge more than26% APR.
+Present days –: Payday loans are currentlyillegalin the Virgin Islands.
+
+========================================
+
